@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nozomi. 
+### Hi there 👋 My name is Nozomi. I am a UI developer.
 
 🌐 Please visit my website at https://nozomione.online. Thank you 🙂
 

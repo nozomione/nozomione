@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Nozomi. I am a UI developer.
+### Hi there 👋 My name is Nozomi. I am a FE developer.
 
-🌐 Please visit my website at https://nozomione.online. Thank you 🙂
+<!-- 🌐 Please visit my website at https://nozomione.online. Thank you 🙂 -->
 
 <!--
 **nozomione/nozomione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

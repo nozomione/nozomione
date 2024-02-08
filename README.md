@@ -1,10 +1,11 @@
 ### Hi there 👋 My name is Nozomi. I am a FE developer.
 
+
 <!-- 🌐 Please visit my website at https://nozomione.online. Thank you 🙂 -->
 
 <!--
 **nozomione/nozomione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=nozomione&color=lightgray)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Nozomi. I am a FE developer.
 
 
-🌐 Please visit my website at https://nozomione.online (🗒️ creared in 2021 and needs some attention...🧡).
+🌐 Please visit my website at https://nozomione.online (🗒️ creared in 2021 and needs some updates and care...🧡).
 
 Thank you 🙂 
 

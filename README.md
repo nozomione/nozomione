@@ -1,7 +1,13 @@
 ### Hi there 👋 My name is Nozomi. I am a FE developer.
 
 
-🌐 Please visit my website at https://nozomione.online. Thank you 🙂 
+🌐 Please visit my website at https://nozomione.online.
+
+(🗒️ creared in 2021 and needs some attention...🧡)
+
+Thank you 🙂 
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=nozomione&color=lightgray)

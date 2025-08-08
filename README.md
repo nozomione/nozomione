@@ -3,11 +3,6 @@
 
 <!-- 🌐 Please visit my website at https://nozomione.online (🗒️ creared in 2021).-->
 
-Thank you 🙂 
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=nozomione&color=lightgray)
 <!--
 **nozomione/nozomione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
